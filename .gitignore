@@ -1,3 +1,6 @@
+echo ".ipynb_checkpoints/
+__pycache__/
+.env" > .gitignore
 # Compiled class file
 *.class
 
