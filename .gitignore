@@ -1,6 +1,8 @@
 echo ".ipynb_checkpoints/
 __pycache__/
 .env" > .gitignore
+# Ignore processed datasets
+data/processed/churn_cleaned.csv
 # Compiled class file
 *.class
 
